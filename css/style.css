@@ -877,4 +877,15 @@ a:focus {
 .footer_section .footer-info p a {
   color: inherit;
 }
+.detaljno-button {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #ff6f3c;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #ff6f3c;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-top: 15px;
+}
 /*# sourceMappingURL=style.css.map */
